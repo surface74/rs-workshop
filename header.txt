@@ -1,4 +1,6 @@
 Hello Github!
-changes from <master> - new changes
+changes from <master>
+changed from first
 
+Text from master - new changes
 
